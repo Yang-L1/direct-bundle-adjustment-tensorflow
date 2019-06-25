@@ -8,9 +8,9 @@ Simple tensorflow implementation of direct SLAM pose registeration method via Ga
 #### unregistered image 
 first row: [ warpped image, target image],   second row [ src image, alignment error]
 
-<img src="unregister.jpg" alt="drawing" width="400"/>
+<img src="unregister.jpg" alt="drawing" width="600"/>
 
 #### registered image 
 
 
-<img src="register.jpg" alt="drawing" width="400"/>
+<img src="register.jpg" alt="drawing" width="600"/>
