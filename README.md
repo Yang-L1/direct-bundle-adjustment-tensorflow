@@ -2,8 +2,6 @@
 
 Simple tensorflow implementation of direct SLAM pose registeration method via Gauss-Newton.
 
-Referred paper: `BA-Net: Dense Bundle Adjustment Network, ICLR2019`
-
 ### run 
 `python pose_registeration.py`
 
